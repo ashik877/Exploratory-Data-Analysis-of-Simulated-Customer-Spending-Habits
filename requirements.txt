@@ -1,0 +1,42 @@
+PROJECT REQUIREMENTS
+
+1. Generate a Synthetic Dataset
+
+* Create a dataset with 500 customer records.
+* Include the following columns:
+  Age
+  Annual Income
+  Transaction Amount
+  Customer Segment
+
+2. Perform Descriptive Statistics
+
+* Calculate summary statistics for:
+  Annual Income
+  Transaction Amount
+* Include:
+  Mean
+  Median
+  Minimum
+  Maximum
+  Standard Deviation
+
+3. Calculate Measures of Central Tendency
+
+* Compute Mean and Median for:
+  Age
+  Transaction Amount
+
+4. Create Visualizations
+
+* Generate at least two visualizations:
+  Histogram showing distribution of Transaction Amount
+  Scatter Plot showing relationship between Annual Income and Transaction Amount
+
+5. Provide Analysis
+
+* Briefly explain what each visualization shows.
+* Describe any patterns or relationships observed.
+
+---
+
